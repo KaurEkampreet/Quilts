@@ -1,0 +1,13 @@
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.exe
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.deps.json
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.runtimeconfig.json
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.runtimeconfig.dev.json
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.dll
+C:\Users\Kaure\source\repos\sellquilts\bin\Debug\netcoreapp3.1\sellquilts.pdb
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.AssemblyInfoInputs.cache
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.AssemblyInfo.cs
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.csproj.CoreCompileInputs.cache
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.dll
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.pdb
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.genruntimeconfig.cache
+C:\Users\Kaure\source\repos\sellquilts\obj\Debug\netcoreapp3.1\sellquilts.csprojAssemblyReference.cache
